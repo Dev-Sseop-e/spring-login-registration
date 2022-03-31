@@ -65,5 +65,5 @@ public class MemberController {
     public String dispAdmin() {
         return "/admin";
     }
-    
+
 }
